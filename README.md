@@ -1,4 +1,5 @@
 # Text To Math Problem Solver and Data Search Assistant
+Check out the live application: [MathsGPT](https://mathsgpt-zf6vs8bwazwli8nuh7yvil.streamlit.app/)
 
 This project is an AI-powered text-to-math problem solver that helps users solve mathematical queries by interpreting natural language input. It leverages advanced mathematical tools and reasoning capabilities to offer detailed solutions to a variety of mathematical questions.
 
